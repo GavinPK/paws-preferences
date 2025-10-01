@@ -16,3 +16,5 @@ The app is designed with a focus on smooth mobile interactions and a simple, int
 - Framer Motion (animations)  
 - @use-gesture/react (gesture handling)  
 
+## GitHub Pages Link
+https://gavinpk.github.io/paws-preferences/
